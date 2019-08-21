@@ -2,7 +2,7 @@
 _Movimiento oscilatorio de un péndulo simple._
 Puede modificar estos archivos y compartir para una mejora del código.
 
-### Instalación 🔧
+## Ejecutando las pruebas ⚙️
 _*Descargar en Clone or download._
 
 _*Descomprimir._
