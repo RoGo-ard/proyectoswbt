@@ -3,7 +3,7 @@ _Movimiento oscilatorio de un péndulo simple._
 Puede modificar estos archivos y compartir para una mejora del código.
 
 ## Abrir y ejecutar ⚙️
-_*Descargar en Clone or download._
+*Descargar en Clone or download.
 
 _*Descomprimir._
 
