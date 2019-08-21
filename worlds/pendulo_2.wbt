@@ -1,0 +1,89 @@
+#VRML_SIM R2019b utf8
+WorldInfo {
+}
+Viewpoint {
+  orientation -0.16767302551781876 0.9707422035096795 0.17188755289104693 1.5892349007242055
+  position 1.42681040160733 1.0351657122567617 0.0011727861222052861
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+  floorSize 2 2
+}
+Robot {
+  children [
+    SolidBox {
+      translation 0 0.025766086600030602 0
+      size 0.5 0.05 0.5
+      appearance GalvanizedMetal {
+      }
+      physics Physics {
+        density -1
+        mass 30
+      }
+    }
+    Solid {
+      translation 1.1160257182453315e-15 0.40985136679411555 -1.1526517430388745e-07
+      rotation 0.11955278848009847 -0.04305827092633985 0.991893702002118 -2.648198401575568e-07
+      children [
+        DEF ROBOT_SHAPE Shape {
+          appearance GalvanizedMetal {
+            textureTransform TextureTransform {
+              rotation 1.5708
+            }
+            IBLStrength 10
+          }
+          geometry Box {
+            size 0.1 0.7 0.15
+          }
+        }
+        DEF HIP HingeJoint {
+          jointParameters HingeJointParameters {
+            position -1.57
+            anchor 0 0.33 0
+            staticFriction 0.01
+          }
+          device [
+            PositionSensor {
+              name "hip"
+            }
+          ]
+          endPoint DEF THIGH_BB Solid {
+            translation 0.0599995 0.3360381761112676 -0.2699701194814238
+            rotation 0.9995995722734097 -0.012938257616566697 -0.02516538496951368 4.741756901437784
+            children [
+              Shape {
+                appearance OldSteel {
+                  textureTransform TextureTransform {
+                    rotation 1.57
+                  }
+                  IBLStrength 0
+                }
+                geometry DEF THIGH_BOX Box {
+                  size 0.02 0.6 0.05
+                }
+              }
+            ]
+            boundingObject USE THIGH_BOX
+            physics Physics {
+              density -1
+              mass 0.1
+              centerOfMass [
+                0 0.3 0
+              ]
+            }
+          }
+        }
+      ]
+      boundingObject USE ROBOT_SHAPE
+      physics Physics {
+        density -1
+        mass 1
+      }
+    }
+  ]
+  contactMaterial "basis_robot"
+  controller "pendsimple"
+}
