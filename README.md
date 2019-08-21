@@ -1,7 +1,7 @@
 # proyectoswbt
 Puede modificar estos archivos y compartir para una mejora del código.
 
--Descargar en Clone or download.\n
+-Descargar en Clone or download.
 -Descomprimir.
 -Abrir desde Webots la carpeta worlds y cargar el archivo pendulo_2.wbt
 -Abrir el archivo pendsimple.c en el editor de textos.
