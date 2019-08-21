@@ -12,7 +12,10 @@ _*Abrir desde Webots la carpeta worlds y cargar el archivo._
  pendulo_2.wbt
 ```
 
-_*Abrir el archivo pendsimple.c en el editor de textos._
+_*Abrir el archivo en el editor de textos._
+```
+pendsimple.c
+```
 
 _*Si es necesario, compilar. (F7)_
 
