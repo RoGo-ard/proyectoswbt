@@ -11,6 +11,6 @@ _*Abrir desde Webots la carpeta worlds y cargar el archivo pendulo_2.wbt_
 
 _*Abrir el archivo pendsimple.c en el editor de textos._
 
-_*Si es necesario compilar. (F7)_
+_*Si es necesario, compilar. (F7)_
 
 _*Desplegar el nodo Robot y buscar parámetro "controller". Agregar pendsimple.c si es necesario y compilar._
