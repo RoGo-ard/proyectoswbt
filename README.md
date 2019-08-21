@@ -23,4 +23,4 @@ pendsimple.c
 
 ## Autor ✒️
 
-* **Oscar Iván Robledo Guerra** - *Trabajo Inicial* 
+* **Oscar Iván Robledo Guerra** - *Trabajo Inicial Webots R2019b*  
