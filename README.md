@@ -20,3 +20,7 @@ pendsimple.c
 * Si es necesario, compilar. (F7)
 
 * Desplegar el nodo Robot y buscar parámetro "controller". Agregar pendsimple.c si es necesario y compilar.
+
+## Autor ✒️
+
+* **Oscar Iván Robledo Guerra** - *Trabajo Inicial* 
