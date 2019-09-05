@@ -1,7 +1,7 @@
 # Proyectos Webots R2019b
 _05/SEP/2019_
 
-Estos códigos te servirán para tus comienzos con el sofware de simulación Webots.
+Estos códigos te ayudarán para tus comienzos con el sofware de simulación Webots.
 Puede compartir y modificar estos archivos para una mejora del código.
 
 ## Abrir y ejecutar ⚙️
