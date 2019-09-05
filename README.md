@@ -1,5 +1,5 @@
 # Proyectos Webots R2019b
-_Movimiento oscilatorio de un péndulo simple._
+_05/SEP/2019_
 Estos códigos te servirán para tus comienzos con el sofware de simulación Webots.
 Puede modificar estos archivos y compartir para una mejora del código.
 
