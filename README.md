@@ -25,8 +25,13 @@ tu_programa.c
 
 ## Autor ✒️
 **Proyectos Webots R2019b**
+
 **Robledo Guerra Oscar Iván** 
+
 **UNIVERSIDAD TECNOLÓGICA DE LA MIXTECA**
+
 **Ingeniería en Electrónica**
+
 *e-mail: o.robledo.guerra@gmail.com*
+
 *Carretera a Acatlima Km. 2.5, Acatlima, 69000 Huajuapan de León, Oax.*
