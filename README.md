@@ -2,7 +2,7 @@
 _05/SEP/2019_
 
 Estos códigos te servirán para tus comienzos con el sofware de simulación Webots.
-Puede modificar estos archivos y compartir para una mejora del código.
+Puede compartir y modificar estos archivos para una mejora del código.
 
 ## Abrir y ejecutar ⚙️
 * Descargar en Clone or download.
@@ -11,17 +11,17 @@ Puede modificar estos archivos y compartir para una mejora del código.
 
 * Abrir desde Webots la carpeta worlds y cargar el archivo.
 ```
- pendulo_2.wbt
+ archivo_X.wbt
 ```
 
 * Abrir el archivo en el editor de textos.
 ```
-pendsimple.c
+tu_programa.c
 ```
 
 * Si es necesario, compilar. (F7)
 
-* Desplegar el nodo Robot y buscar parámetro "controller". Agregar pendsimple.c si es necesario y compilar.
+* Desplegar el nodo Robot y buscar parámetro "controller". Agregar tu_programa.c si es necesario y compilar.
 
 ## Autor ✒️
 
