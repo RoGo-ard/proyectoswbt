@@ -25,5 +25,6 @@ tu_programa.c
 
 ## Autor ✒️
 *Trabajo Inicial Webots R2019b*
-* ** Robledo Guerra Oscar Iván ** 
-***UNIVERSIDAD TECNOLÓGICA DE LA MIXTECA**
+** Robledo Guerra Oscar Iván ** 
+**UNIVERSIDAD TECNOLÓGICA DE LA MIXTECA**
+Carretera a Acatlima Km. 2.5, Acatlima, 69000 Huajuapan de León, Oax.
