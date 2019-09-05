@@ -24,5 +24,6 @@ tu_programa.c
 * Desplegar el nodo Robot y buscar parámetro "controller". Agregar tu_programa.c si es necesario y compilar.
 
 ## Autor ✒️
-
-* **Oscar Iván Robledo Guerra** - *Trabajo Inicial Webots R2019b*  
+*Trabajo Inicial Webots R2019b*
+* ** Robledo Guerra Oscar Iván ** 
+***UNIVERSIDAD TECNOLÓGICA DE LA MIXTECA**
